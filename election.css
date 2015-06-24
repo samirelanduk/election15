@@ -1,0 +1,25 @@
+table {
+	border-spacing: 15px 2px;
+	font-size: 75%;
+	}
+	
+#commons {
+	margin-left: auto;
+	margin-right:auto;
+	}
+	
+.table_head {
+	text-align: center;
+	font-size:150%;
+	}
+	
+.party_name {
+	text-align: right;
+}
+.num_cell {
+	text-align: center;
+}
+
+#seats2, #votes2 {
+	width: 400px;
+	}
